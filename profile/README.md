@@ -12,7 +12,7 @@ Research papers, GUI models, training datasets, evaluation benchmarks, framework
 | [Models](https://awesomecua.github.io/categories/model/) · [Datasets](https://awesomecua.github.io/categories/dataset/) | [Tools](https://awesomecua.github.io/categories/tool/) · [Infrastructure](https://awesomecua.github.io/categories/infrastructure/) |
 | [Benchmarks](https://awesomecua.github.io/categories/benchmark/) | [Products](https://awesomecua.github.io/categories/product/) · [Publishers](https://awesomecua.github.io/categories/company/) |
 
-**1,984 resource records** · **251 reviewed** · **11 categories**
+**1,987 resource records** · **282 reviewed** · **11 categories**
 
 [Download data](https://awesomecua.github.io/data/) · [Practical guides](https://awesomecua.github.io/guides/) · [Coverage](https://awesomecua.github.io/coverage/) · [Contribute](https://github.com/AwesomeCUA/awesomecua.github.io/issues/new?template=resource.yml)
 
