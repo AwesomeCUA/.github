@@ -12,7 +12,7 @@ Research papers, GUI models, training datasets, evaluation benchmarks, framework
 | [Models](https://awesomecua.github.io/categories/model/) · [Datasets](https://awesomecua.github.io/categories/dataset/) | [Tools](https://awesomecua.github.io/categories/tool/) · [Infrastructure](https://awesomecua.github.io/categories/infrastructure/) |
 | [Benchmarks](https://awesomecua.github.io/categories/benchmark/) | [Products](https://awesomecua.github.io/categories/product/) · [Publishers](https://awesomecua.github.io/categories/company/) |
 
-**1,987 resource records** · **282 reviewed** · **11 categories**
+![Live catalog counts](https://awesomecua.github.io/badges/catalog.svg)
 
 [Download data](https://awesomecua.github.io/data/) · [Practical guides](https://awesomecua.github.io/guides/) · [Coverage](https://awesomecua.github.io/coverage/) · [Contribute](https://github.com/AwesomeCUA/awesomecua.github.io/issues/new?template=resource.yml)
 
@@ -21,3 +21,5 @@ Research papers, GUI models, training datasets, evaluation benchmarks, framework
 Curated means AI-assisted editorial review; metadata verification does not establish research quality or reproducibility. Counts refer to resources, not distinct projects. Comprehensive global coverage is a goal, not a verified claim.
 
 <sub>Evidence snapshot: 2026-10-16. Original annotations and code: MIT. Linked assets retain their own terms.</sub>
+
+[Twice-daily scan status](https://awesomecua.github.io/updates/) · [Source and contribution workflow](https://github.com/reacher-z/Awesome-CUA)
