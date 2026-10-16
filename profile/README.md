@@ -1,27 +1,23 @@
 # AwesomeCUA
 
-### The next interface is an agent.
+### The computer-use agent ecosystem, with sources.
 
-A source-backed map of the **computer-use agent ecosystem** — research, models, training data, evaluation, engineering tools, and products.
+Research papers, GUI models, training datasets, evaluation benchmarks, frameworks, tools, and products — searchable and traceable in one catalog.
 
-**[Explore the website →](https://awesomecua.github.io/)** &nbsp; · &nbsp; **[中文主页 →](https://awesomecua.github.io/?lang=zh)** &nbsp; · &nbsp; **[Contribute a resource →](https://github.com/AwesomeCUA/awesomecua.github.io/issues/new?template=resource.yml)**
-
----
+**[Explore the website →](https://awesomecua.github.io/)** · **[Research papers →](https://awesomecua.github.io/papers/)** · **[中文指南 →](https://awesomecua.github.io/zh/)**
 
 | Research & training | Engineering & industry |
 | --- | --- |
-| [Papers](https://awesomecua.github.io/?kind=paper#catalog) · [Surveys](https://awesomecua.github.io/?kind=survey#catalog) | [Agents](https://awesomecua.github.io/?kind=agent#catalog) · [Frameworks](https://awesomecua.github.io/?kind=framework#catalog) |
-| [Models](https://awesomecua.github.io/?kind=model#catalog) · [Datasets](https://awesomecua.github.io/?kind=dataset#catalog) | [Tools](https://awesomecua.github.io/?kind=tool#catalog) · [Infrastructure](https://awesomecua.github.io/?kind=infrastructure#catalog) |
-| [Benchmarks](https://awesomecua.github.io/?kind=benchmark#catalog) | [Products](https://awesomecua.github.io/?kind=product#catalog) · [Publishers](https://awesomecua.github.io/?kind=company#catalog) |
+| [Papers](https://awesomecua.github.io/papers/) · [Surveys](https://awesomecua.github.io/categories/survey/) | [Agents](https://awesomecua.github.io/categories/agent/) · [Frameworks](https://awesomecua.github.io/categories/framework/) |
+| [Models](https://awesomecua.github.io/categories/model/) · [Datasets](https://awesomecua.github.io/categories/dataset/) | [Tools](https://awesomecua.github.io/categories/tool/) · [Infrastructure](https://awesomecua.github.io/categories/infrastructure/) |
+| [Benchmarks](https://awesomecua.github.io/categories/benchmark/) | [Products](https://awesomecua.github.io/categories/product/) · [Publishers](https://awesomecua.github.io/categories/company/) |
 
-### Data you can build on
+**1,984 resource records** · **251 reviewed** · **11 categories**
 
-**1,947 resource records** · **231 curated** · **11 categories** · **21 discovery documents**
+[Download data](https://awesomecua.github.io/data/) · [Practical guides](https://awesomecua.github.io/guides/) · [Coverage](https://awesomecua.github.io/coverage/) · [Contribute](https://github.com/AwesomeCUA/awesomecua.github.io/issues/new?template=resource.yml)
 
-[Download JSONL](https://awesomecua.github.io/downloads/catalog.jsonl) · [Download SQLite](https://awesomecua.github.io/downloads/catalog.sqlite) · [Inspect coverage](https://awesomecua.github.io/downloads/coverage.json)
+每条资源保留一手来源与审阅状态。支持论文检索、分类筛选、来源追溯与结构化数据下载。
 
-Every resource has primary-source evidence. Review states are explicit, unknowns stay unknown, and code, data, and model licenses remain separate. Counts refer to resources, not distinct projects. Comprehensive global coverage is a goal, not a verified claim.
+Curated means AI-assisted editorial review; metadata verification does not establish research quality or reproducibility. Counts refer to resources, not distinct projects. Comprehensive global coverage is a goal, not a verified claim.
 
-面向研究、训练评测与产业应用的 Computer-Use Agent 数据资产。支持全文搜索、分类筛选、来源追溯与数据下载。欢迎一起补全这个领域的知识地图。
-
-<sub>Data snapshot: 2026-10-16. Original catalog annotations and website code: MIT. Linked resources retain their own terms.</sub>
+<sub>Evidence snapshot: 2026-10-16. Original annotations and code: MIT. Linked assets retain their own terms.</sub>
