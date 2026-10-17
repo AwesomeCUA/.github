@@ -6,6 +6,14 @@ Research papers, GUI models, training datasets, evaluation benchmarks, framework
 
 **[Explore the website →](https://awesomecua.github.io/)** · **[Research papers →](https://awesomecua.github.io/papers/)** · **[中文指南 →](https://awesomecua.github.io/zh/)**
 
+For people, RAG systems, and agents — clone the complete catalog:
+
+```sh
+git clone https://github.com/reacher-z/Awesome-CUA.git
+```
+
+[Agent instructions](https://awesomecua.github.io/AGENTS.md) · [Agent & RAG guide](https://awesomecua.github.io/agents/) · [中文使用指南](https://awesomecua.github.io/zh/agents/)
+
 | Research & training | Engineering & industry |
 | --- | --- |
 | [Papers](https://awesomecua.github.io/papers/) · [Surveys](https://awesomecua.github.io/categories/survey/) | [Agents](https://awesomecua.github.io/categories/agent/) · [Frameworks](https://awesomecua.github.io/categories/framework/) |
