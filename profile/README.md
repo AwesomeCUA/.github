@@ -20,6 +20,6 @@ Research papers, GUI models, training datasets, evaluation benchmarks, framework
 
 Curated means AI-assisted editorial review; metadata verification does not establish research quality or reproducibility. Counts refer to resources, not distinct projects. Comprehensive global coverage is a goal, not a verified claim.
 
-<sub>Evidence snapshot: 2026-10-16. Original annotations and code: MIT. Linked assets retain their own terms.</sub>
+<sub>Source snapshots: <a href="https://awesomecua.github.io/coverage/">coverage ledger</a>. Original annotations and code: MIT. Linked assets retain their own terms.</sub>
 
 [Twice-daily scan status](https://awesomecua.github.io/updates/) · [Source and contribution workflow](https://github.com/reacher-z/Awesome-CUA)
